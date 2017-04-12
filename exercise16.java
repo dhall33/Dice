@@ -1,7 +1,7 @@
 //Daneil Hall
 //April 4 2017
 //ITSE
-//A short program that rolls dice 
+//A short program that rolls dice and counts the "boxcars"
 
 
 public class exercise16 {
